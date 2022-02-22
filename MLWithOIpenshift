@@ -1,0 +1,18 @@
+
+
+
+1.OpenShift tutorials :
+https://learn.openshift.com/ai-machine-learning/?extIdCarryOver=true&sc_cid=7013a0000026GN9AAM
+
+https://www.katacoda.com/openshift/courses/ai-machine-learning/jupyter-notebooks
+
+
+Deploying a Jupyter Notebook Image.
+
+
+2.Jupyter on OpenShift 
+
+https://github.com/jupyter-on-openshift
+A community project for demonstrating how Jupyter notebooks and JupyterHub can be deployed to OpenShift.
+
+3. https://www.openshift.com/blog/serving-machine-learning-models-on-openshift-part-1
